@@ -23,6 +23,6 @@ The following metrics are currently implemented, but there are many more feature
 
 ## Feedback
 
-If you have any feedback, please reach out to us at dax.dcl@gmail.com
+If you have any feedback, please reach out to us at dcl.metrics@gmail.com
 
 Visit [DCL-Metrics](https://www.dcl-metrics.com/) to learn more!
